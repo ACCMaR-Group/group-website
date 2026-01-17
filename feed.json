@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Advanced Computations for Chemistry and Materials Research (ACCMaR)",
+    "description": "",
+    "home_page_url": "https://ACCMaR-Group.github.io/group-website",
+    "feed_url": "https://ACCMaR-Group.github.io/group-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Guorong Weng"
+    },
+    "items": [
+        {
+            "id": "https://ACCMaR-Group.github.io/group-website/accmar-is-recruiting.html",
+            "url": "https://ACCMaR-Group.github.io/group-website/accmar-is-recruiting.html",
+            "title": "ACCMaR is Recruiting!",
+            "summary": "We are currently recruiting researchers of the following categories. Two Postdoc positions are available in ACCMaR, with one working in Macau SAR and the other working at the Innovation and Technology Research Institute in Hengqin. The PI will offer competitive salary and benefits in accordance&hellip;",
+            "content_html": "\n  <p>\n    We are currently recruiting researchers of the following categories.\n  </p>\n\n    <h2 id=\"1-postdocs\">\n      1. Postdocs\n    </h2>\n\n  <p>\n    Two Postdoc positions are available in ACCMaR, with one working in Macau SAR and the other working at the Innovation and Technology Research Institute in Hengqin. The PI will offer competitive salary and benefits in accordance with university and local regulations, along with a supportive, respectful, and international working environment.&nbsp;\n  </p>\n\n  <p>\n    <b>Attention:</b> Postdoc candidates that are interested in working in Hengqin might be eligible for receiving extra stipend and research fund from the talent program of the municipal government. See&nbsp;<a href=\"https://www.hengqin.gov.cn/macao_zh_hans/zwgk/zcfg/zyzc/index.html\">https://www.hengqin.gov.cn/macao_zh_hans/zwgk/zcfg/zyzc/index.html</a> for further details.\n  </p>\n\n  <p>\n    The following terms apply to the candidates for both positions.\n  </p>\n\n    <h4 id=\"required-qualifications\">\n      Required Qualifications\n    </h4>\n\n  <ul>\n    <li>Ph.D. degree in Chemistry, Physics, Materials Science, Chemical Engineering, or Computer Science.</li><li>Experience in theoretical/computational methods, such as density functional theory, molecular dynamics, and machine-learning methods.</li><li>Strong background in scientific programming using Python, Fortran, or C/C++.</li><li>Demonstrated ability to conduct independent research and publish in peer-reviewed journals.</li><li>Good written skills in English</li>\n  </ul>\n\n    <h4 id=\"preferred-qualifications\">\n      Preferred Qualifications\n    </h4>\n\n  <ul>\n    <li>Working proficiency for communicating in English.</li><li>Experience in using and managing high-performance computing (HPC).</li><li>Familiarity with AI/ML frameworks and automatic data processing.</li><li>Prior work on catalysis, quantum materials, or advanced electronic-structure methods</li>\n  </ul>\n\n    <h2 id=\"2-phd-students\">\n      2. Ph.D. Students\n    </h2>\n\n  <p>\n    The recruitment of Ph.D. students in ACCMaR is pending until the PI acquired his eligibility for advising Ph.D. students. Please stay tuned if you are interested. Candidates are also welcome to join ACCMaR as research assistants for a 6-month program before applying.\n  </p>\n\n    <h2 id=\"3-research-assistants\">\n      3. Research Assistants\n    </h2>\n\n  <p>\n    Multiple positions are available for research assistants. Working locations can be in Macau SAR or Hengqin. Successful candidates will be offered competitive salary and benefits in accordance with local regulations, along with a supportive and inclusive research environment.\n  </p>\n\n    <h4 id=\"qualifications\">\n      Qualifications\n    </h4>\n\n  <ul>\n    <li>Bachelor/Master degree in Chemistry, Physics, Materials Science, Chemical Engineering, or Computer Science.</li><li>Experience in theoretical/computational methods, such as density functional theory, molecular dynamics, and machine-learning methods.</li><li>Background in scientific programming using Python, Fortran, or C/C++.</li>\n  </ul>\n\n    <h2 id=\"4-student-interns\">\n      4. Student Interns\n    </h2>\n\n  <p>\n    Undergraduate and Master students from MUST are all welcome to join my group as interns. You will be qualified as long as you are self-motivated by curiosity and interests. Outstanding interns will have the opportunity to publish the research work done in the group.\n  </p>\n\n    <h2 id=\"5-how-to-apply\">\n      5. How to Apply\n    </h2>\n\n  <p>\n    Candidates are advised to specify the position they are applying for as the email title, briefly introduce yourself in the email body, and send the following documents to grweng@must.edu.mo.\n  </p>\n\n  <p>\n    For Postdoc candidates, please include your <b>CV</b>, a brief <b>statement of research interest</b>, and the <b>contact information for 2-3 references </b>(three documents in total) in the email.\n  </p>\n\n  <p>\n    For research assistants, please include your <b>CV</b>&nbsp;in the email (one document).\n  </p>\n\n  <p>\n    For student interns, just introduce yourself in the email, and no document is needed.\n  </p>\n\n  <p>\n    <b>Applications with missing materials will not be considered. The PI will contact the candidates for interview if they pass the screening step.</b>\n  </p>",
+            "author": {
+                "name": "Guorong Weng"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-17T02:10:47-08:00",
+            "date_modified": "2026-01-17T03:27:07-08:00"
+        },
+        {
+            "id": "https://ACCMaR-Group.github.io/group-website/dr-weng-joined-must.html",
+            "url": "https://ACCMaR-Group.github.io/group-website/dr-weng-joined-must.html",
+            "title": "Dr. Weng joined MUST",
+            "summary": "Main Campus of MUST LIU's Innovation and Technology Center MUST Innovation and Technology Research Institute in Hengqin 12/01/2026: Dr. Weng officially joined Macau University of Science and Technology as an Assistant Professor and independent PI. He founded his research group named ACCMaR from scratch. He&hellip;",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://ACCMaR-Group.github.io/group-website/media/posts/5/gallery/Must-2.PNG\" data-size=\"886x664\">\n        <img loading=\"lazy\" src=\"https://ACCMaR-Group.github.io/group-website/media/posts/5/gallery/Must-2-thumbnail.PNG\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Main Campus of MUST</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://ACCMaR-Group.github.io/group-website/media/posts/5/gallery/kangze-2.jpeg\" data-size=\"1080x1330\">\n        <img loading=\"lazy\" src=\"https://ACCMaR-Group.github.io/group-website/media/posts/5/gallery/kangze-2-thumbnail.jpeg\" height=\"887\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>LIU's Innovation and Technology Center</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://ACCMaR-Group.github.io/group-website/media/posts/5/gallery/Must_Zhuhai-2.jpg\" data-size=\"1920x1040\">\n        <img loading=\"lazy\" src=\"https://ACCMaR-Group.github.io/group-website/media/posts/5/gallery/Must_Zhuhai-2-thumbnail.jpg\" height=\"390\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>MUST Innovation and Technology Research Institute in Hengqin</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    12/01/2026: Dr. Weng officially joined Macau University of Science and Technology as an Assistant Professor and independent PI. He founded his research group named ACCMaR from scratch. He will conduct research at both the LIU's Innovation and Technology Center in Macau SAR, and the Innovation Technology Research Center in Hengqin. His teaching activities will happen on the main campus of MUST.\n  </p>",
+            "author": {
+                "name": "Guorong Weng"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-12T00:00:00-08:00",
+            "date_modified": "2026-01-17T01:38:24-08:00"
+        },
+        {
+            "id": "https://ACCMaR-Group.github.io/group-website/news.html",
+            "url": "https://ACCMaR-Group.github.io/group-website/news.html",
+            "title": "1st NC-FBM&amp;ECMST in Nanjing",
+            "summary": "Dr. Weng presented his work on Topological Catalysis. Dr. Weng host a session and took a picture with Prof. Xiaonan Wang from Tsinghua University. Dr. Weng was invited by Prof. Hao Li from Tohoku University. 05/01/2026: Dr. Weng gave an invited talk at the 1st&hellip;",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://ACCMaR-Group.github.io/group-website/media/posts/4/gallery/IMG_0568.JPG\" data-size=\"3997x2662\">\n        <img loading=\"lazy\" src=\"https://ACCMaR-Group.github.io/group-website/media/posts/4/gallery/IMG_0568-thumbnail.JPG\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Dr. Weng presented his work on Topological Catalysis.</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://ACCMaR-Group.github.io/group-website/media/posts/4/gallery/IMG_0563.JPG\" data-size=\"3995x2660\">\n        <img loading=\"lazy\" src=\"https://ACCMaR-Group.github.io/group-website/media/posts/4/gallery/IMG_0563-thumbnail.JPG\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Dr. Weng host a session and took a picture with Prof. Xiaonan Wang from Tsinghua University.</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://ACCMaR-Group.github.io/group-website/media/posts/4/gallery/with_Hao_Li.jpg\" data-size=\"3519x2276\">\n        <img loading=\"lazy\" src=\"https://ACCMaR-Group.github.io/group-website/media/posts/4/gallery/with_Hao_Li-thumbnail.jpg\" height=\"466\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Dr. Weng was invited by Prof. Hao Li from Tohoku University.</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <p id=\"05012026-dr-weng-gave-an-invited-talk-at-the-1st-national-conference-on-frontier-battery-materials-and-energy-catalytic-materials-science-and-technology-in-nanjing-china\">\n    05/01/2026: Dr. Weng gave an invited talk at the 1st National Conference on Frontier Battery Materials and Energy Catalytic Materials Science and Technology in Nanjing, China. He was invited by Professor Hao Li@Tohoku to present his work on topological catalysis and to host a session of the symposium.\n  </p>",
+            "author": {
+                "name": "Guorong Weng"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-05T00:00:00-08:00",
+            "date_modified": "2026-01-17T01:23:58-08:00"
+        }
+    ]
+}

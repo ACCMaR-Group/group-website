@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ACCMaR-Group.github.io/group-website/sitemap.xml
