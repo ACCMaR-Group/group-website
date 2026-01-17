@@ -3,7 +3,7 @@
     <title>Advanced Computations for Chemistry and Materials Research (ACCMaR)</title>
     <link href="https://ACCMaR-Group.github.io/group-website/feed.xml" rel="self" />
     <link href="https://ACCMaR-Group.github.io/group-website" />
-    <updated>2026-01-17T03:27:07-08:00</updated>
+    <updated>2026-01-17T09:02:33-08:00</updated>
     <author>
         <name>Guorong Weng</name>
     </author>
@@ -38,7 +38,7 @@
     Two Postdoc positions are available in ACCMaR, with one working in Macau SAR and the other working at the Innovation and Technology Research Institute in Hengqin. The PI will offer competitive salary and benefits in accordance with university and local regulations, along with a supportive, respectful, and international working environment.&nbsp;
   </p>
 
-  <p>
+  <p class="msg msg--info">
     <b>Attention:</b> Postdoc candidates that are interested in working in Hengqin might be eligible for receiving extra stipend and research fund from the talent program of the municipal government. See&nbsp;<a href="https://www.hengqin.gov.cn/macao_zh_hans/zwgk/zcfg/zyzc/index.html">https://www.hengqin.gov.cn/macao_zh_hans/zwgk/zcfg/zyzc/index.html</a> for further details.
   </p>
 
@@ -111,11 +111,11 @@
   </p>
 
   <p>
-    For student interns, just introduce yourself in the email, and no document is needed.
+    For student interns, just <b>introduce yourself</b> in the email, and no document is needed.
   </p>
 
-  <p>
-    <b>Applications with missing materials will not be considered. The PI will contact the candidates for interview if they pass the screening step.</b>
+  <p class="msg msg--warning">
+    <b>Incomplete Applications (e.g., missing materials or inappropriate email content) will not be considered. The PI will contact the candidates for interview if they pass the screening step.</b>
   </p>
             ]]>
         </content>
