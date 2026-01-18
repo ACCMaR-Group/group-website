@@ -2567,17 +2567,19 @@ textarea {
 }
 
 .gallery__item figcaption {
-    position: static;
-    opacity: 1;
-    color: var(--text-color);
-    text-align: center;
-    margin-top: 0.5rem;
-    transform: none;
+    position: static !important;
+    opacity: 1 !important;
+    color: var(--text-color) !important;
+    text-align: center !important;
+    margin-top: 0.5rem !important;
+    transform: none !important;
+    display: block !important;
+    visibility: visible !important;
 }
 
 .gallery__item:hover figcaption {
-    opacity: 1;
-    transform: none;
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 img[loading] {
