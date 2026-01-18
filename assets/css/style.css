@@ -2605,3 +2605,8 @@ img.is-loaded {
     padding-bottom: 0 !important;
     line-height: 1.2 !important;
 }
+
+/* Increase spacing below gallery to separate caption from next specific heading */
+.gallery-wrapper {
+    margin-bottom: 3rem !important;
+}
