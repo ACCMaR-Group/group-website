@@ -2531,26 +2531,28 @@ textarea {
 .gallery__item a {
     border-radius: calc(var(--border-radius) * 4);
     display: block;
-    height: 100%;
-    width: 100%
+    height: auto;
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
 }
 
 .gallery__item a::after {
     background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, 0)));
     background: linear-gradient(to top, rgba(0, 0, 0, .4) 0, rgba(0, 0, 0, 0) 100%);
     border-radius: inherit;
-    bottom: var(--gallery-gap);
+    bottom: 0;
     content: "";
     display: block;
     opacity: 0;
-    left: var(--gallery-gap);
-    height: calc(100% - var(--gallery-gap) * 2);
+    left: 0;
+    height: 100%;
     position: absolute;
-    right: var(--gallery-gap);
-    top: var(--gallery-gap);
+    right: 0;
+    top: 0;
     -webkit-transition: all .24s ease-out;
     transition: all .24s ease-out;
-    width: calc(100% - var(--gallery-gap) * 2)
+    width: 100%
 }
 
 .gallery__item a:hover::after {
@@ -2560,7 +2562,7 @@ textarea {
 .gallery__item img {
     border-radius: inherit;
     display: block;
-    height: 100%;
+    height: auto;
     -o-object-fit: cover;
     object-fit: cover;
     width: 100%
