@@ -1,12 +1,14 @@
-name: Deploy Hugo Site to GitHub Pages
-
+name: Deploy Hugo Site
 on:
   push:
     branches:
-      - main  # Set a branch name to trigger deployment
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
