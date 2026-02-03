@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="hero hero--noimage">
+    <header class="hero__content hero__content--centered">
+        <div class="wrapper">
+            <h1>{{ .Title }}</h1>
+            {{ if .Date }}
+            <div class="feed__meta content__meta content__meta--centered">
+                <time datetime="{{ .Date.Format "2006-01-02T15:04" }}" class="feed__date">{{ .Date.Format "January 2, 2006" }}</time>
+            </div>
+            {{ end }}
+        </div>
+    </header>
+</div>
+<div class="entry-wrapper content__entry">
+    {{ .Content }}
+</div>
+{{ end }}

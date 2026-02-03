@@ -1,0 +1,18 @@
+<header class="top js-header">
+    <a class="logo" href="{{ .Site.BaseURL | relURL }}">Advanced Computations for Chemistry and Materials Research
+        (ACCMaR)</a>
+    <nav class="navbar js-navbar">
+        <button class="navbar__toggle js-toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false">
+            <span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span>
+        </button>
+        <ul class="navbar__menu">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li class="{{ if or ($currentPage.IsMenuCurrent " main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{
+                end }}">
+                <a href="{{ .URL | relURL }}" target="{{ .Params.target | default " _self" }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
+</header>

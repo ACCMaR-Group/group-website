@@ -1,0 +1,42 @@
+baseURL = 'https://ACCMaR-Group.github.io/group-website/'
+languageCode = 'en-us'
+title = 'Advanced Computations for Chemistry and Materials Research (ACCMaR)'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "ACCMaR is committed to combining state-of-the-art machine-learning techniques with advanced electronic structure methods for efficient simulations of chemistry and materials systems."
+  copyright = "© 2026 ACCMaR Group, MUST. All rights reserved."
+
+[[menu.main]]
+  name = 'HOME'
+  url = '/'
+  weight = 10
+
+[[menu.main]]
+  name = 'PI'
+  url = '/principal-investigator/'
+  weight = 20
+
+[[menu.main]]
+  name = 'RESEARCH'
+  url = '/research-topics/'
+  weight = 30
+
+[[menu.main]]
+  name = 'PEOPLE'
+  url = '/people/'
+  weight = 40
+
+[[menu.main]]
+  name = 'PUBLICATIONS'
+  url = '/publications/'
+  weight = 50
+
+[[menu.main]]
+  name = 'NEWS'
+  url = '/news/'
+  weight = 60
