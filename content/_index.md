@@ -4,9 +4,9 @@ date: 2026-01-17
 ---
 <h2 id="introduction-of-accmarandnbsp" class="align-center">🎓 Introducing ACCMaR 🎓</h2>
 <figure style="text-align: center;"><img loading="lazy"
-        src="media/posts/11/figure1_2.png" width="600"
+        src="{{< relURL "media/posts/11/figure1_2.png" >}}" width="600"
         height="674" sizes="(max-width: 1920px) 100vw, 1920px"
-        srcset="media/posts/11/responsive/figure1_2-xs.png 640w, media/posts/11/responsive/figure1_2-sm.png 768w, media/posts/11/responsive/figure1_2-md.png 1024w, media/posts/11/responsive/figure1_2-lg.png 1366w, media/posts/11/responsive/figure1_2-xl.png 1600w, media/posts/11/responsive/figure1_2-2xl.png 1920w">
+        srcset="{{< relURL "media/posts/11/responsive/figure1_2-xs.png" >}} 640w, {{< relURL "media/posts/11/responsive/figure1_2-sm.png" >}} 768w, {{< relURL "media/posts/11/responsive/figure1_2-md.png" >}} 1024w, {{< relURL "media/posts/11/responsive/figure1_2-lg.png" >}} 1366w, {{< relURL "media/posts/11/responsive/figure1_2-xl.png" >}} 1600w, {{< relURL "media/posts/11/responsive/figure1_2-2xl.png" >}} 1920w">
     <figcaption>Integration of AI, Data, Human Knowledge in Advanced Computations at ACCMaR.
     </figcaption>
 </figure>
