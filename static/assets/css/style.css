@@ -2612,3 +2612,16 @@ img.is-loaded {
 .gallery-wrapper {
     margin-bottom: 3rem !important;
 }
+/* Header alignment fix */
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+@media all and (max-width: 56.1875em) {
+    .header__inner {
+        flex-wrap: wrap;
+    }
+}
