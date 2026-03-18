@@ -74,13 +74,6 @@ date: 2026-01-18
 <div class="gallery-wrapper">
     <div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="4">
         <figure class="gallery__item"><a
-                href="{{< relURL "media/posts/12/gallery/bingzhou-li.png" >}}"
-                data-size="370x370"><img loading="lazy"
-                    src="{{< relURL "media/posts/12/gallery/bingzhou-li.png" >}}"
-                    alt="Bingzhou Li" width="370" height="370"></a>
-            <figcaption>Bingzhou Li, Master Student</figcaption>
-        </figure>
-        <figure class="gallery__item"><a
                 href="{{< relURL "media/posts/12/gallery/intern.png" >}}"
                 data-size="370x370"><img loading="lazy"
                     src="{{< relURL "media/posts/12/gallery/intern-thumbnail.png" >}}"
