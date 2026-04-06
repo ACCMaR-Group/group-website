@@ -47,12 +47,13 @@ date: 2026-01-17
 </ul>
 <h2 id="recent-newsandnbsp" class="align-center">📰 Recent News 📰</h2>
 <ul>
-    <li>16/01/2026 ACCMaR started recruiting researchers of all ranks. Please refer to our recruitment
+    <li>03/23/2026 Dr. Weng gave an invited talk (by Prof. Anastassia N. Alexandrova) about his research on topological catalysis at the ACS Spriing 2026 in Atlanta.</li>
+    <li>01/16/2026 ACCMaR started recruiting researchers of all ranks. Please refer to our recruitment
         announcement in our group news.</li>
-    <li>12/01/2026 Dr. Weng officially joined Macao Institute of Materials Science and Engineering
+    <li>01/12/2026 Dr. Weng officially joined Macao Institute of Materials Science and Engineering
         (MIMSE, led by Prof. Shui-Tong Lee) at Macau University of Science and Technology, and founded
         his group ACCMaR.</li>
-    <li>05/01/2026 Dr. Weng gave an invited talk (by Prof. Hao Li@Tohoku) on his work on topological
+    <li>01/05/2026 Dr. Weng gave an invited talk (by Prof. Hao Li@Tohoku) on his work on topological
         catalysts at the the 1st National Conference on Frontier Battery Materials and Energy Catalytic
         Materials Science and Technology.</li>
 </ul>
